@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Save JSON Data</title>
+</head>
+<body>
+    <h1>Save JSON Data</h1>
+
+    <button id="saveBtn">Save Data</button>
+
+    <script>
+        // JavaScript code to send the JSON data to the server
+        document.getElementById('saveBtn').addEventListener('click', function() {
+            var xhr = new XMLHttpRequest();
+            xhr.open('POST', '/save_data', true);
+            xhr.setRequestHeader('Content-Type', 'application/json');
+            xhr.send(JSON.stringify({ "imdb_movies": [] }));  // Replace [] with your actual JSON data
+        });
+    </script>
+</body>
+</html>

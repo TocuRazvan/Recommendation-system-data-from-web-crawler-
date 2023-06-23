@@ -1,0 +1,200 @@
+{
+    "timestamp": "2023-05-24T20:57:11.586438",
+    "imdb_movies": [
+        {
+            "Ranking": 1,
+            "Movie Name": "Închisoarea îngerilor",
+            "url": "https://www.imdb.com/title/tt0111161/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=1a264172-ae11-42e4-8ef7-7fed1973bb8f&pf_rd_r=J3MVWPQDAGMQ8VDMBQW0&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_1",
+            "Year": "1994",
+            "Rating": "9.3",
+            "Vote Count": "2.7M",
+            "Director": [
+                "Frank Darabont"
+            ],
+            "Writers": [
+                "Stephen King",
+                "Frank Darabont"
+            ],
+            "Stars": [
+                "Tim Robbins",
+                "Morgan Freeman",
+                "Bob Gunton"
+            ],
+            "Summary": "Over the course of several years, two convicts form a friendship, seeking consolation and, eventually, redemption through basic compassion.",
+            "Site": [
+                "https://www.facebook.com/shawshankredemptionfilm/",
+                "https://www.warnerbros.com/movies/shawshank-redemption"
+            ],
+            "Release Date": "October 14, 1994 (United States)",
+            "Country": [
+                "United States"
+            ],
+            "Run Time": [
+                "Runtime",
+                "2 hours 22 minutes"
+            ],
+            "Language": [
+                "English"
+            ],
+            "Budget": "$25,000,000 (estimated)",
+            "Gross Worldwide": "$28,884,504"
+        },
+        {
+            "Ranking": 2,
+            "Movie Name": "Nașul",
+            "url": "https://www.imdb.com/title/tt0068646/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=1a264172-ae11-42e4-8ef7-7fed1973bb8f&pf_rd_r=J3MVWPQDAGMQ8VDMBQW0&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_2",
+            "Year": "1972",
+            "Rating": "9.2",
+            "Vote Count": "1.9M",
+            "Director": [
+                "Francis Ford Coppola"
+            ],
+            "Writers": [
+                "Mario Puzo",
+                "Francis Ford Coppola"
+            ],
+            "Stars": [
+                "Marlon Brando",
+                "Al Pacino",
+                "James Caan"
+            ],
+            "Summary": "Don Vito Corleone, head of a mafia family, decides to hand over his empire to his youngest son Michael. However, his decision unintentionally puts the lives of his loved ones in grave danger.",
+            "Site": [
+                "https://www.facebook.com/thegodfather/",
+                "https://www.instagram.com/thegodfathermovie/"
+            ],
+            "Release Date": "March 24, 1972 (United States)",
+            "Country": [
+                "United States"
+            ],
+            "Run Time": [
+                "Runtime",
+                "2 hours 55 minutes"
+            ],
+            "Language": [
+                "English",
+                "Italian",
+                "Latin"
+            ],
+            "Budget": "$6,000,000 (estimated)",
+            "Gross Worldwide": "$250,341,816"
+        },
+        {
+            "Ranking": 3,
+            "Movie Name": "Cavalerul negru",
+            "url": "https://www.imdb.com/title/tt0468569/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=1a264172-ae11-42e4-8ef7-7fed1973bb8f&pf_rd_r=J3MVWPQDAGMQ8VDMBQW0&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_3",
+            "Year": "2008",
+            "Rating": "9.0",
+            "Vote Count": "2.7M",
+            "Director": [
+                "Christopher Nolan"
+            ],
+            "Writers": [
+                "Jonathan Nolan",
+                "Christopher Nolan",
+                "David S. Goyer"
+            ],
+            "Stars": [
+                "Christian Bale",
+                "Heath Ledger",
+                "Aaron Eckhart"
+            ],
+            "Summary": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+            "Site": [
+                "https://www.facebook.com/darkknighttrilogy/",
+                "https://www.warnerbros.co.uk/movies/dark-knight"
+            ],
+            "Release Date": "July 25, 2008 (Romania)",
+            "Country": [
+                "United States",
+                "United Kingdom"
+            ],
+            "Run Time": [
+                "Runtime",
+                "2 hours 32 minutes"
+            ],
+            "Language": [
+                "English",
+                "Mandarin"
+            ],
+            "Budget": "$185,000,000 (estimated)",
+            "Gross Worldwide": "$1,006,234,167"
+        },
+        {
+            "Ranking": 4,
+            "Movie Name": "Nașul: Partea a II-a",
+            "url": "https://www.imdb.com/title/tt0071562/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=1a264172-ae11-42e4-8ef7-7fed1973bb8f&pf_rd_r=J3MVWPQDAGMQ8VDMBQW0&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_4",
+            "Year": "1974",
+            "Rating": "9.0",
+            "Vote Count": "1.3M",
+            "Director": [
+                "Francis Ford Coppola"
+            ],
+            "Writers": [
+                "Francis Ford Coppola",
+                "Mario Puzo"
+            ],
+            "Stars": [
+                "Al Pacino",
+                "Robert De Niro",
+                "Robert Duvall"
+            ],
+            "Summary": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+            "Site": [
+                "https://www.facebook.com/thegodfather/",
+                "https://twitter.com/godfathermovie"
+            ],
+            "Release Date": "December 18, 1974 (United States)",
+            "Country": [
+                "United States"
+            ],
+            "Run Time": [
+                "Runtime",
+                "3 hours 22 minutes"
+            ],
+            "Language": [
+                "English",
+                "Italian",
+                "Spanish",
+                "Latin",
+                "Sicilian"
+            ],
+            "Budget": "$13,000,000 (estimated)",
+            "Gross Worldwide": "$47,961,919"
+        },
+        {
+            "Ranking": 5,
+            "Movie Name": "12 Oameni mânioşi",
+            "url": "https://www.imdb.com/title/tt0050083/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=1a264172-ae11-42e4-8ef7-7fed1973bb8f&pf_rd_r=J3MVWPQDAGMQ8VDMBQW0&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_5",
+            "Year": "1957",
+            "Rating": "9.0",
+            "Vote Count": "812K",
+            "Director": [
+                "Sidney Lumet"
+            ],
+            "Writers": [
+                "Reginald Rose"
+            ],
+            "Stars": [
+                "Henry Fonda",
+                "Lee J. Cobb",
+                "Martin Balsam"
+            ],
+            "Summary": "The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict.",
+            "Site": null,
+            "Release Date": "April 10, 1957 (United States)",
+            "Country": [
+                "United States"
+            ],
+            "Run Time": [
+                "Runtime",
+                "1 hour 36 minutes"
+            ],
+            "Language": [
+                "English"
+            ],
+            "Budget": "$350,000 (estimated)",
+            "Gross Worldwide": "$955"
+        }
+    ]
+}
